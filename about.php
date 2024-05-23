@@ -79,6 +79,7 @@
                         </div>
                      </nav>
                   </div>
+                  <a style="position: fixed; top:30px; right:20px" href="admin/">Login</a>
                </div>
             </div>
          </div>
