@@ -1,0 +1,19 @@
+
+#menu{
+	list-style-type:none;
+	font-size:18px;
+}
+
+#menu li{
+	display:inline;
+}
+.container{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
+  .checked{
+	color: orange;
+  }
+
